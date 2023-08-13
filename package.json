@@ -1,0 +1,20 @@
+{
+  "name": "tours",
+  "version": "1.0.0",
+  "description": "landing page for tours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "shahadat",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.0"
+  }
+}
+
+
+
